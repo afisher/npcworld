@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
-/*
- * @author tgriswol, afisher
+/**
+ * @author Trevor Griswold (Griswold.Trevor@gmail.com), afisher
  */
 public class NpcUniverse implements Universe {
     private NpcWorld[][] worlds;

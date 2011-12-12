@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.awt.*;
 import javax.swing.JComponent;
 
-/*
- * @author tgriswol
+/**
+ * @author Trevor Griswold (Griswold.Trevor@gmail.com)
  */
 public class NpcIndividual implements Individual, Comparable {
     private NpcDna dna;

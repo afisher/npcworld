@@ -1,7 +1,7 @@
 import java.awt.Color;
 
-/*
- * @author tgriswol
+/**
+ * @author Trevor Griswold (Griswold.Trevor@gmail.com)
  */
 public class NpcDna implements Dna {
     private static final Color[] colors = {
