@@ -1,9 +1,10 @@
+/**
+ * @author Ashley Fisher (fish.ash@gmail.com)
+ */
 import java.util.ArrayList;
 import java.util.Set;
 import java.util.Collections;
-/*
- * @author afisher
- */
+
 public class NpcWorld implements World {
     private NpcPopulation population;
 

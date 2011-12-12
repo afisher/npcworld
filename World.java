@@ -1,5 +1,5 @@
-/*
- * @author afisher
+/**
+ * @author Ashley Fisher (fish.ash@gmail.com)
  */
 public interface World {
     public Dna crossover(Dna d1, Dna d2);

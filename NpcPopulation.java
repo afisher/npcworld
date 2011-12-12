@@ -1,5 +1,5 @@
-/*
- * @author afisher
+/**
+ * @author Ashley Fisher (fish.ash@gmail.com)
  */
 
 import java.util.HashMap;
